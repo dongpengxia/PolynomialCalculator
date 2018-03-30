@@ -1,5 +1,5 @@
-# PolynomialCalculator
-Polynomial calculator performs algebraic calculations on polynomials using a linked list.
+# PolynomialHelper
+Polynomial helper performs algebraic calculations on polynomials using a linked list.
 
 To compile: g++ main.cpp Polynomial.cpp Term.cpp
 	(make sure Term.h and Polynomial.h are in current directory)
